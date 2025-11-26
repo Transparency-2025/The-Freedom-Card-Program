@@ -6,6 +6,7 @@
 - [Press Release](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESS_RELEASE.md) - a formal Press Release and a summary for the school's newsletter or text alert system.
 - [Internal Tracking](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/INTERNAL_TRACKING.md) - Guide for Internal Program Administration and examples of various sheets/tables for tracking.
 - [Partner Reporting](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNER_REPORTING.md) - Partner Thank You & Reporting Schedule
+- [Launch Checklist](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/LAUNCH_CHECKLIST.md) - steps from planning to fully operational program.
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
