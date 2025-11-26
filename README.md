@@ -1,8 +1,9 @@
 # The Freedom Card Program
 
-- README - Overview Document
-- STUDENT_COMMMITMENT_CHARTER - student contract to receive funding as lessons continue and progress.
-- SPONSORSHIP_PITCH_LETTER - to be sent to major local employers for support, opting-in and funding
+- [Overview](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/README.md) 
+- [Student Commitment Charter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/STUDENT_COMMMITMENT_CHARTER.md) - student contract to receive funding as lessons continue and progress.
+- [Sponsorship Pitch Letter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/SPONSORSHIP_PITCH_LETTER.md) - to be sent to major local employers for support, opting-in and funding
+- [Press Release](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESS_RELEASE.md) - a formal Press Release and a summary for the school's newsletter or text alert system.
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
