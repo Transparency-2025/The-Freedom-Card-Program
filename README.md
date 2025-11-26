@@ -10,6 +10,7 @@
 - [Finalise Partnership](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNERSHIP_FINALISE.md) - Email Invitation to Finalise Partnership that will be sent to the chosen Gift Card Provider
 - [Presentation Outline](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESENTATION_OUTLINE.md) - Outline is designed to be delivered by the Principal or Program Coordinator during a school assembly
 - [Implementation Handbook](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/IMPLEMENTATION_HANDBOOK.md) - This handbook is designed to be the central reference point for the Program Coordinator at Scoil Phobail Bhéara.
+- [Statement of Financial Activities (SOFA)](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main//FINANCE_SOFA.md) - A financial statement including distinction between Restricted and Unrestricted funds
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
