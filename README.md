@@ -1,7 +1,7 @@
 # The Freedom Card Program
 
 ## Program Documents
-### Launch & Operational 
+### Launch & Partnerships
 
 - [Overview](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/README.md) 
 - [Student Commitment Charter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/STUDENT_COMMITMENT_CHARTER.md) - Student contract to receive funding as lessons continue and progress.
@@ -14,6 +14,11 @@
 - [Presentation Outline](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESENTATION_OUTLINE.md) - Outline is designed to be delivered by the Principal or Program Coordinator during a school assembly
 - [Implementation Handbook](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/IMPLEMENTATION_HANDBOOK.md) - This handbook is designed to be the central reference point for the Program Coordinator at Scoil Phobail Bhéara.
 - [Statement of Financial Activities (SOFA)](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/FINANCE_SOFA.md) - A financial statement including distinction between Restricted and Unrestricted funds
+
+### Reporting & Operational 
+
+- [Methodology for Asssement Quality of Launch & Partnerhip documents](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PROGRAM_EVALUATION_STAGES_v1.md) -  Initial draft of A 4-Pillar Non-Profit/Program Feasibility Framework. This methodology assesses not just the content, but the viability of execution.
+- [Scorecards for Program Success Asssment Methodolgy](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PROGRAM_SCORECARDS.md) - This methodology uses a two-part framework: Feasibility Scorecard (Launch) and Impact Scorecard (Success).
 
 ### 🔬 Research & Development
 
