@@ -16,9 +16,45 @@ The Beara Drive Initiative is a partnership between Scoil Phobail Bhéara and lo
 
 ---
 
-## 📚 Documentation Suite
+## 📊 Program Assessment Summary
 
-This comprehensive suite of documents contains all the planning, operational, strategic, and financial materials required to launch and sustain the program.
+The program's development has been guided by a clear framework to assess its readiness and long-term impact.
+
+### 📝 Original Methodology of Assessment (4-Pillar Framework)
+
+This framework was used to evaluate the originality, quality, thoroughness, and completeness of the core project documents and plan.
+
+| Pillar | Focus | **Initial Assessment Grade** |
+| :--- | :--- | :--- |
+| **Pillar I** | Originality & Strategy | **Excellent (9/10)** |
+| **Pillar II** | Quality of Communication | **High Quality (8.5/10)** |
+| **Pillar III** | Thoroughness (Operational) | **Strong (8/10)** |
+| **Pillar IV** | Completeness & Risk | **Good (6.5/10)** |
+
+### 🚀 The Feasibility Scorecard (Likelihood to Launch)
+
+This scorecard measures the proximity to launch by assessing critical operational and financial requirements.
+
+| Assessment Area | Key Metric Summary | Current Status/Risk Focus | **Launch Readiness Score** |
+| :--- | :--- | :--- | :--- |
+| **Financial Viability** | Unrestricted Fund Balance (€500 Deficit) | Requires securing funding to cover administrative costs. | **C- (High Risk)** |
+| **Operational Logistics** | Card Platform Selection / Merchant Count | Needs final gift card provider sign-off and merchant enrollment. | **B (Moderate Risk)** |
+| **Compliance & Admin** | Internal Tracking / Legal Waivers | Internal systems and legal documentation (GDPR/Liability) are complete. | **A (Low Risk)** |
+
+### ✅ The Impact Scorecard (Likelihood to Succeed)
+
+This scorecard defines the program's success against its financial and non-financial goals over time.
+
+| Goal Type | Key Performance Indicator (KPI) | Success Target (Year 1) | **Confidence Grade** |
+| :--- | :--- | :--- | :--- |
+| **Economic** | Local Spend Percentage | 80% of card value spent in the Beara network. | **High Confidence (A)** |
+| **Sponsor** | Sponsor Re-Commitment Rate | 75% commit to Year 2. | **Moderate Confidence (B)** |
+| **Mobility** | Full License Acquisition Rate | 60% of enrolled students within 18 months. | **High Confidence (A)** |
+| **Engagement** | Tier 3 (Test Booking) Completion Rate | 90% of students who start reach the final milestone. | **Very High Confidence (A+)** |
+
+---
+
+## 📚 Documentation Suite
 
 ### 🚀 Launch & Partnerships
 
