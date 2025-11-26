@@ -15,9 +15,10 @@
 - [Implementation Handbook](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/IMPLEMENTATION_HANDBOOK.md) - This handbook is designed to be the central reference point for the Program Coordinator at Scoil Phobail Bhéara.
 - [Statement of Financial Activities (SOFA)](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/FINANCE_SOFA.md) - A financial statement including distinction between Restricted and Unrestricted funds
 
-### Research & Development
+### 🔬 Research & Development
 
 - [Driving & Economic Mobility - Rural vs Urban](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/RESEARCH_OVERVIEW_ECONOMIC_MOBILITY.md) - Research into the impact of driving licensure, location, and demographics on economic mobility in Ireland reveals a stark "two-tier" system.
+- [Research Plan: Driver License Status and Socioeconomic Outcomes](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/RESEARCH_PLAN_DRIVERS_SOCIOECONOMIC_OUTCOMES.md) - This research plan outlines a comprehensive, multi-phased approach to investigate the detailed financial, health, social, and political impacts correlated with possessing a provisional versus a full driver's license.
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
