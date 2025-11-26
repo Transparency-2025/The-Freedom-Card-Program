@@ -1,5 +1,9 @@
 # The Freedom Card Program
 
+- README - Overview Document
+- STUDENT_COMMMITMENT_CHARTER - student contract to receive funding as lessons continue and progress.
+- SPONSORSHIP_PITCH_LETTER - to be sent to major local employers for support, opting-in and funding
+
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
 Given the geography of the Beara Peninsula, holding a driver’s license is not just a convenience; it is an essential tool for economic mobility and employment.
