@@ -1,13 +1,15 @@
 # The Freedom Card Program
 
 - [Overview](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/README.md) 
-- [Student Commitment Charter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/STUDENT_COMMMITMENT_CHARTER.md) - student contract to receive funding as lessons continue and progress.
-- [Sponsorship Pitch Letter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/SPONSORSHIP_PITCH_LETTER.md) - to be sent to major local employers for support, opting-in and funding
-- [Press Release](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESS_RELEASE.md) - a formal Press Release and a summary for the school's newsletter or text alert system.
+- [Student Commitment Charter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/STUDENT_COMMMITMENT_CHARTER.md) - Student contract to receive funding as lessons continue and progress.
+- [Sponsorship Pitch Letter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/SPONSORSHIP_PITCH_LETTER.md) - Letter to send to major local employers for support, opting-in and funding
+- [Press Release](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESS_RELEASE.md) - A formal Press Release and a summary for the school's newsletter or text alert system.
 - [Internal Tracking](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/INTERNAL_TRACKING.md) - Guide for Internal Program Administration and examples of various sheets/tables for tracking.
 - [Partner Reporting](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNER_REPORTING.md) - Partner Thank You & Reporting Schedule
-- [Launch Checklist](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/LAUNCH_CHECKLIST.md) - steps from planning to fully operational program.
-- [Finalise Partnership](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNERSHIP_FINALISE.md) - Email Invitation to Finalize Partnership that will be sent to the chosen Gift Card Provider
+- [Launch Checklist](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/LAUNCH_CHECKLIST.md) - Steps from planning to a fully operational program.
+- [Finalise Partnership](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNERSHIP_FINALISE.md) - Email Invitation to Finalise Partnership that will be sent to the chosen Gift Card Provider
+- [Presentation Outline](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESENTATION_OUTLINE.md) - Outline is designed to be delivered by the Principal or Program Coordinator during a school assembly
+- [Implementation Handbook](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/IMPLEMENTATION_HANDBOOK.md) - This handbook is designed to be the central reference point for the Program Coordinator at Scoil Phobail Bhéara.
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
