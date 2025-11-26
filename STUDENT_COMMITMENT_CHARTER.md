@@ -1,86 +1,94 @@
-Here is the **Student Commitment Charter**. This document serves two purposes: it is the official application form, and it acts as the "Social Contract" ensuring the student understands that funding is conditional on progress.
+Here is the fully developed text for **Document F: Student Commitment Charter**.
 
-I have designed this to be printed on school letterhead.
+To ensure simplicity and compliance, we have integrated the **GDPR/Data Privacy Statement** and the **Safety/Liability Disclaimer** directly into this document. 
 
----
+This ensures that by signing the application, the student and parent are simultaneously consenting to data processing and waiving liability, preventing the need for three separate forms.
 
-### Document F: Student Commitment Charter & Application
+-----
 
-**Program Name:** The Beara Drive Initiative
+# Document F: Student Commitment Charter
+
+**Program:** The Beara Drive Initiative
 **School:** Scoil Phobail Bhéara
+**Academic Year:** 2025/2026
 
-#### **1. The Agreement**
-**I, [Student Name], understand that:**
-This program is an investment in my future mobility and independence. The funds provided are a grant from the local community to assist with the costs of obtaining a full Irish Driver’s License.
+-----
 
-In exchange for this financial support, I commit to completing the **12 Essential Driver Training (EDT)** lessons and sitting the RSA Driving Test.
+## Part 1: The Agreement
 
-#### **2. The Roadmap (Milestones & Rewards)**
-Funding is not given all at once. It is unlocked in three stages. I must present proof of completion to the Program Coordinator to receive my "Beara Advantage" Gift Cards.
+**The Beara Drive Initiative** is a partnership between Scoil Phobail Bhéara and our local business community. We are investing in **you** to help you gain your independence, improve your employability, and stay safe on our roads.
 
-**Step 1: The Starter Boost (Value: €__TBD__)**
-* [ ] **Requirement:** Present a valid **Learner Permit** (Theory Test passed) AND proof of booking my **First EDT Lesson** with a certified instructor.
-* [ ] **Reward:** Unlocks initial funding to help pay for the first block of lessons.
+In return for this financial support, you are asked to commit to the program guidelines, the timeline, and the local economy.
 
-**Step 2: The Momentum Grant (Value: €__TBD__)**
-* [ ] **Requirement:** Present my **RSA Logbook** signed off up to **Lesson 6** (The halfway point).
-* [ ] **Reward:** Unlocks the second round of funding to keep me going.
+### The Milestone Roadmap
 
-**Step 3: The Finish Line (Value: €__TBD__)**
-* [ ] **Requirement:** Present proof of **application/date** for the Full Driving Test.
-* [ ] **Reward:** Unlocks the final grant to assist with car hire/test day costs.
+Funding is released in three stages. You must provide proof of achievement to the Program Coordinator to unlock each tier.
 
----
+  * **TIER 1: The Starter Boost (20%)**
+      * **Requirement:** Present your valid **Learner Permit** and a receipt/booking confirmation for your **First Driving Lesson**.
+      * **Reward:** €[Value] Beara Advantage Card (Restricted).
+  * **TIER 2: The Momentum Grant (40%)**
+      * **Requirement:** Present your RSA Logbook signed off through **EDT Lesson 6** (The Halfway Point).
+      * **Reward:** €[Value] Beara Advantage Card (Restricted).
+  * **TIER 3: The Completion Reward (40%)**
+      * **Requirement:** Present official confirmation of your **Driving Test Appointment** (Date/Time/Location).
+      * **Reward:** €[Value] Beara Advantage Card (Restricted).
 
-#### **3. Terms & Conditions**
-1.  **Local Spend Only:** I understand that the funding is issued via **Restricted Gift Cards/Vouchers**. These must be used at participating retailers and businesses in the Beara/West Cork area. They cannot be exchanged for cash.
-2.  **Time Limit:** To encourage momentum, I aim to complete my 12 lessons within **[e.g., 9 months]** of signing this contract.
-3.  **Safety First:** Any reports of reckless driving or road traffic offenses will result in immediate disqualification from the program.
-4.  **Data Protection:** I consent to my progress (e.g., "John D. passed Lesson 6") being shared anonymously with program sponsors for reporting purposes.
+-----
 
----
+## Part 2: Terms & Conditions
 
-#### **4. Signatures**
+### 1\. The "Circular Economy" Rule
+
+This money was donated by local businesses to keep our community thriving.
+
+  * **I understand** that the funds provided are loaded onto a **Restricted Beara Advantage Card**.
+  * **I agree** to spend these funds **only** at participating local retailers, service providers, and hospitality venues within the designated West Cork network.
+  * **I understand** that attempting to cash out the card or sell it is strictly prohibited and will result in immediate removal from the program.
+
+### 2\. Academic & Behavioral Standing
+
+  * Participation in the program is a privilege. Students must maintain satisfactory attendance and behavioral standards at Scoil Phobail Bhéara.
+  * The School Administration reserves the right to pause or revoke funding if a student is suspended or expelled.
+
+### 3\. Limitation of Liability & Safety Disclaimer
+
+**Important:** Please read carefully.
+
+  * **Role of the School:** Scoil Phobail Bhéara acts solely as a **funding administrator**. The school provides financial subsidies but does **not** provide driver instruction, vehicle provision, or supervision of driving activities.
+  * **Liability:** Scoil Phobail Bhéara, its staff, the Board of Management, and the program sponsors accept **no liability** for any accidents, injuries, property damage, or legal infractions incurred by the student while learning to drive or operating a vehicle.
+  * **Responsibility:** All driving activities are the sole responsibility of the student (driver) and their RSA-Approved Driving Instructor (ADI) or accompanying qualified sponsor. The student is responsible for ensuring their vehicle is roadworthy, taxed, and insured in accordance with Irish Law.
+
+### 4\. GDPR & Data Privacy Notice
+
+To administer this program, we need to collect and store specific personal data.
+
+  * **What we collect:** Name, Class, PPSN (for internal verification only), Learner Permit Number, Phone Number, and progress data (Lesson logs/Test dates) as outlined in the *Internal Tracking* protocols.
+  * **Why we collect it:** To verify eligibility, track milestone progress, and issue the correct financial funding.
+  * **Who sees it:** Data is accessible only to the Program Coordinator and School Administration. Aggregate (anonymous) data regarding "Total Students Enrolled" and "Total Funds Distributed" will be shared with sponsors for reporting purposes.
+  * **Retention:** Data will be retained for the duration of the student's enrollment in the program plus 12 months for financial auditing, after which it will be securely deleted.
+  * **Consent:** By signing below, you consent to the processing of this data for the specific purpose of The Beara Drive Initiative.
+
+-----
+
+## Part 3: Signatures of Commitment
 
 **Student Declaration:**
-I accept the challenge to become a safe, licensed driver. I agree to the terms above.
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Print Name), accept the challenge of The Beara Drive Initiative. I promise to use the funds responsibly to support my education and my local community. I have read and understood the Liability and Data Privacy clauses above.
 
-__________________________
-**Student Signature**
-Date: ___/___/___
+**Student Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Parent/Guardian Consent (Required if under 18):**
-I support this application and verify that the student is committed to the driver education process.
+<br>
 
-__________________________
-**Parent/Guardian Signature**
-Date: ___/___/___
+**Parent/Guardian Declaration:**
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Print Name), consent to my child participating in this initiative. I acknowledge that the school provides funding only and is not liable for driving instruction or road safety. I consent to the data processing outlined in the GDPR Notice.
 
----
+**Parent/Guardian Signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **For Office Use Only (Program Tracker)**
+<br>
 
-| Milestone | Date Verified | Proof Shown (Logbook/Receipt) | Voucher Code Issued | Admin Initials |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tier 1: Starter** | | | | |
-| **Tier 2: Midpoint** | | | | |
-| **Tier 3: Test** | | | | |
+**Program Coordinator Use Only:**
+**Date Received:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_  **Eligible:** [ ] Yes  [ ] No
+**Initial:** \_\_\_\_\_\_\_\_\_\_\_
 
----
-
-### Strategic Note on Gift Card Distribution
-
-Since you are considering whether to award vouchers *upfront*, *throughout*, or *at the end*, this contract uses the **"Throughout" (Milestone)** model.
-
-**Why this is best for Castletownbere:**
-1.  **Cash Flow:** It prevents the school/program from spending the entire budget on a student who quits after Lesson 1.
-2.  **Motivation:** It gives the student a "mini-goal" to hit Lesson 6 (the hardest part where motivation often dips).
-3.  **Retention:** If they fail the driving test, they have already received the support. We reward the *effort* of taking the test, not just the result, which removes fear of failure.
-
-### Next Step for You
-
-You have the **Names**, **Sponsorship Pitch**, and **Student Contract**.
-
-The final piece of the puzzle is the **Launch Announcement**.
-
-Would you like me to draft a **Press Release / Newsletter Blurb** to announce this to the parents and the wider West Cork community (e.g., for *The Southern Star* or *The text alert system*)?
+-----
