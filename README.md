@@ -7,6 +7,7 @@
 - [Internal Tracking](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/INTERNAL_TRACKING.md) - Guide for Internal Program Administration and examples of various sheets/tables for tracking.
 - [Partner Reporting](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNER_REPORTING.md) - Partner Thank You & Reporting Schedule
 - [Launch Checklist](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/LAUNCH_CHECKLIST.md) - steps from planning to fully operational program.
+- [Finalise Partnership](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNERSHIP_FINALISE.md) - Email Invitation to Finalize Partnership that will be sent to the chosen Gift Card Provider
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
