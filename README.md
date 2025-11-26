@@ -5,6 +5,7 @@
 - [Sponsorship Pitch Letter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/SPONSORSHIP_PITCH_LETTER.md) - to be sent to major local employers for support, opting-in and funding
 - [Press Release](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESS_RELEASE.md) - a formal Press Release and a summary for the school's newsletter or text alert system.
 - [Internal Tracking](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/INTERNAL_TRACKING.md) - Guide for Internal Program Administration and examples of various sheets/tables for tracking.
+- [Partner Reporting](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PARTNER_REPORTING.md) - Partner Thank You & Reporting Schedule
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
