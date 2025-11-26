@@ -1,5 +1,8 @@
 # The Freedom Card Program
 
+## Program Documents
+### Launch & Operational 
+
 - [Overview](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/README.md) 
 - [Student Commitment Charter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/STUDENT_COMMMITMENT_CHARTER.md) - Student contract to receive funding as lessons continue and progress.
 - [Sponsorship Pitch Letter](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/SPONSORSHIP_PITCH_LETTER.md) - Letter to send to major local employers for support, opting-in and funding
@@ -11,6 +14,8 @@
 - [Presentation Outline](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/PRESENTATION_OUTLINE.md) - Outline is designed to be delivered by the Principal or Program Coordinator during a school assembly
 - [Implementation Handbook](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main/IMPLEMENTATION_HANDBOOK.md) - This handbook is designed to be the central reference point for the Program Coordinator at Scoil Phobail Bhéara.
 - [Statement of Financial Activities (SOFA)](https://github.com/Transparency-2025/The-Freedom-Card-Program/blob/main//FINANCE_SOFA.md) - A financial statement including distinction between Restricted and Unrestricted funds
+
+### Research & Development
 
 Documentation of the initiative to support economic mobility and employment in West Cork.
 
